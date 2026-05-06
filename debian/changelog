@@ -1,4 +1,4 @@
-qcom-diag-router (1.0.2-1) unstable; urgency=medium
+qcom-diag-router (1.0.0-2) unstable; urgency=medium
 
   * Initial packaging of Qualcomm diag-router prebuilt binary.
     - qcom-diag-router: diagnostic router daemon
