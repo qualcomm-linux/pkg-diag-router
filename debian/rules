@@ -8,7 +8,7 @@ export DH_VERBOSE = 1
 override_dh_auto_install:
 ifeq ($(DEB_HOST_ARCH),arm64)
 	mkdir -p $(CURDIR)/debian/qcom-diag-router/
-	cp -a data/qcom-diag-router/arm64/* $(CURDIR)/debian/qcom-diag-router/
+	cp -a qcom-diag-router/arm64/* $(CURDIR)/debian/qcom-diag-router/
 endif
 	:
 
