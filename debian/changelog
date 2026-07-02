@@ -1,8 +1,8 @@
-qcom-diag-router (1.0.2-1qli+staging1~bpo13.1) UNRELEASED; urgency=medium
+qcom-diag-router (1.0.2-1qli+staging1~bpo13.1) trixie; urgency=medium
 
   * Unreleased changes
 
- -- root <root@06152172111a>  Thu, 02 Jul 2026 16:23:00 +0000
+ -- root <root@65decfe53d19>  Thu, 02 Jul 2026 16:27:49 +0000
 
 qcom-diag-router (1.0.2-1qli+staging1) forky; urgency=medium
 
