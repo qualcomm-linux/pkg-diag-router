@@ -1,3 +1,9 @@
+qcom-diag-router (1.0.2-1qli+staging1~bpo14.1~) UNRELEASED; urgency=medium
+
+  * Unreleased changes
+
+ -- root <root@bed704062667>  Thu, 02 Jul 2026 16:29:34 +0000
+
 qcom-diag-router (1.0.2-1qli+staging1~bpo13.1) trixie; urgency=medium
 
   * Unreleased changes
