@@ -1,13 +1,15 @@
-qcom-diag-router (1.0.2-0qli+staging1~bpo13.1) UNRELEASED; urgency=medium
+qcom-diag-router (1.0.2-1qli+staging1~bpo13.1) UNRELEASED; urgency=medium
 
-  * Initial commit
+  * Unreleased changes
 
- -- Jairaj Solanki <jsolanki@qti.qualcomm.com>  Tue, 19 May 2026 10:23:47 +0000
+ -- root <root@06152172111a>  Thu, 02 Jul 2026 16:23:00 +0000
 
-qcom-diag-router (1.0.2-1) unstable; urgency=medium
+qcom-diag-router (1.0.2-1qli+staging1) forky; urgency=medium
 
-  [ Jairaj Solanki ]
-  * Initial packaging of Qualcomm diag-router prebuilt binary.
-    - qcom-diag-router: diagnostic router daemon
+  [ Agathe Porte ]
+  * Initial release
+  * Version 1.0.2-1 was uploaded by mistake in qli-staging/trixie. Bump all
+    versions so they appear higher even if this package was never released
+    into Debian.
 
- -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Tue, 19 May 2026 10:23:24 +0000
+ -- root <root@b83c91c03608>  Thu, 02 Jul 2026 16:20:57 +0000
