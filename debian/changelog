@@ -13,4 +13,4 @@ qcom-diag-router (1.0.2-1qli+staging1) forky; urgency=medium
     versions so they appear higher even if this package was never released
     into Debian.
 
- -- root <root@b83c91c03608>  Thu, 02 Jul 2026 16:20:57 +0000
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Thu, 02 Jul 2026 16:20:57 +0000
