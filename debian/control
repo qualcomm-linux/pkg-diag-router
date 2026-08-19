@@ -6,6 +6,8 @@ Build-Depends:
  debhelper-compat (= 13),
 Build-Depends-Arch:
  libqrtr1,
+Vcs-Browser: https://github.com/qualcomm-linux/pkg-diag-router
+Vcs-Git: https://github.com/qualcomm-linux/pkg-diag-router.git
 
 Package: qcom-diag-router
 Architecture: arm64
