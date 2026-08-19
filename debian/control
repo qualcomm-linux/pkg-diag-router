@@ -10,7 +10,6 @@ Architecture: arm64
 Description: Qualcomm Diag router daemon
  Daemon for routing Qualcomm diagnostic messages between the host and modem.
 Section: utils
-Priority: optional
 Depends:
  qcom-libdiag,
  ${misc:Depends},
