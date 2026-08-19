@@ -2,8 +2,18 @@ qcom-diag-router (1.0.2-0qli1~) UNRELEASED; urgency=medium
 
   [ Agathe Porte ]
   * Initial release to QLI
+  * d/control: drop obsolete Rules-Requires-Root
+  * d/control: drop obsolete Priority field
+  * d/control: use shlibs:Depends
+  * d/control: remove unused libdiag dep
+  * d/control: put myself as maintainer for QLI
+  * d/control: move section to non-free/utils
+  * d/control: add missing Vcs-Browser and Vcs-Git
+  * d/rules: drop unneeded overrides
+  * Bump Standards-Version to 4.7.4 (no changes needed)
+  * d/copyright: fix license name
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 19 Aug 2026 11:29:03 +0200
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 19 Aug 2026 11:58:44 +0200
 
 qcom-diag-router (1.0.2-1qli+staging1) forky; urgency=medium
 
