@@ -1,7 +1,7 @@
 Source: qcom-diag-router
 Maintainer: Agathe Porte <agathe.porte@oss.qualcomm.com>
 Standards-Version: 4.6.2
-Section: misc
+Section: non-free/utils
 Build-Depends:
  debhelper-compat (= 13),
 Build-Depends-Arch:
@@ -11,7 +11,6 @@ Package: qcom-diag-router
 Architecture: arm64
 Description: Qualcomm Diag router daemon
  Daemon for routing Qualcomm diagnostic messages between the host and modem.
-Section: utils
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
