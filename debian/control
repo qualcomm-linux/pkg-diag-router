@@ -4,6 +4,8 @@ Standards-Version: 4.6.2
 Section: misc
 Build-Depends:
  debhelper-compat (= 13),
+Build-Depends-Arch:
+ libqrtr1,
 
 Package: qcom-diag-router
 Architecture: arm64
@@ -13,3 +15,4 @@ Section: utils
 Depends:
  qcom-libdiag,
  ${misc:Depends},
+ ${shlibs:Depends},
