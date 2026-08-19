@@ -1,3 +1,9 @@
+qcom-diag-router (1.0.2-0qli1~bpo13+1~) UNRELEASED; urgency=medium
+
+  * Rebuild for trixie.
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 19 Aug 2026 12:06:06 +0200
+
 qcom-diag-router (1.0.2-0qli1) forky; urgency=medium
 
   [ Agathe Porte ]
