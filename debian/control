@@ -13,6 +13,5 @@ Description: Qualcomm Diag router daemon
  Daemon for routing Qualcomm diagnostic messages between the host and modem.
 Section: utils
 Depends:
- qcom-libdiag,
  ${misc:Depends},
  ${shlibs:Depends},
