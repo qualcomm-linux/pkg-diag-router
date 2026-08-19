@@ -1,5 +1,5 @@
 Source: qcom-diag-router
-Maintainer: Jairaj Solanki <jsolanki@qti.qualcomm.com>
+Maintainer: Agathe Porte <agathe.porte@oss.qualcomm.com>
 Standards-Version: 4.6.2
 Section: misc
 Build-Depends:
