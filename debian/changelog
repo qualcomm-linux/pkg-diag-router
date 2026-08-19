@@ -1,4 +1,4 @@
-qcom-diag-router (1.0.2-0qli1~) UNRELEASED; urgency=medium
+qcom-diag-router (1.0.2-0qli1) forky; urgency=medium
 
   [ Agathe Porte ]
   * Initial release to QLI
@@ -13,7 +13,7 @@ qcom-diag-router (1.0.2-0qli1~) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.7.4 (no changes needed)
   * d/copyright: fix license name
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 19 Aug 2026 11:58:44 +0200
+ -- Debusine Action Bot <noreply@bot.invalid>  Wed, 19 Aug 2026 10:00:56 +0000
 
 qcom-diag-router (1.0.2-1qli+staging1) forky; urgency=medium
 
