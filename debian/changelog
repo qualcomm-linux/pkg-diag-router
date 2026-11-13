@@ -3,10 +3,6 @@ qcom-diag-router (1.0.3-2~) UNRELEASED; urgency=medium
   [ Vivek Kumar ]
   * debian/control: add libqrtr1 as runtime dependency (fixes missing
       libqrtr.so.1 at runtime)
-  * debian/rules: enable installsysusers debhelper addon so
-      dh_installsysusers runs at compat 13 (fixes diag user/group not
-      being created, causing qcom-diag-router.service to fail with
-      status=217/USER)
 
  -- Vivek Kumar <vivekum@qti.qualcomm.com>  Wed, 12 Nov 2026 09:00:00 +0000
 
